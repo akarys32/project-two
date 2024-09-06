@@ -1,0 +1,26 @@
+
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #adf8ef;
+    
+    }
+h1{
+    text-align: center;
+}
+animate-image {
+    width: 200px;
+    height: 200px;
+    transition: all 0.5s ease-in-out;
+    
+}
+
+  animate-image:hover {
+    transform: scale(1.2);
+     
+}  
+
+.red_text{
+    color:rgb(246, 103, 103)
+}
+img {float:right; 
+
